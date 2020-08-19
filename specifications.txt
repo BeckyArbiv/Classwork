@@ -1,0 +1,8 @@
+Specifications:
+
+What do i want in my database:
+Name 
+Blood type
+Address
+Donor Center
+
